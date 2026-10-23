@@ -3,7 +3,7 @@
 - **Mã đề:** Thi thử
 - **Họ tên:** Lê Hồng Quân
 - **Lớp:**CNTT2 
-- **Link repository:** 
+- **Link repository:** https://github.com/LeHogQuan/CNTT2_Nhap-mon-CNTT_ThiThu/tree/main/van-phong-pham-website
 - **Hệ điều hành (Windows/macOS):** Windows
 
 ## 4.2. Thao tác máy tính cơ bản bằng CLI
